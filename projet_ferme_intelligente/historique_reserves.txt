@@ -1,0 +1,7 @@
+11/02/2025-17:18:15 - reserve-456 - niveau[ID:4]-0 - fuite[ID:5]-0 - pression[ID:6]-0 - pompe-0 - alerte-0 - reg_pression-0 - vanne-0 - detect_fuite-0
+11/02/2025-17:18:58 - reserve-456 - niveau[ID:4]-75 - fuite[ID:5]-1 - pression[ID:6]-100 - pompe-0 - alerte-1 - reg_pression-0 - vanne-0 - detect_fuite-1
+12/02/2025-19:26:54 - reserve-456 - niveau[ID:4]-0 - fuite[ID:5]-0 - pression[ID:6]-0 - pompe-0 - alerte-0 - reg_pression--1009325789 - vanne-134265023 - detect_fuite-4
+12/02/2025-19:27:49 - reserve-456 - niveau[ID:4]-40 - fuite[ID:5]-1 - pression[ID:6]-500 - pompe-0 - alerte-0 - reg_pression--1009325789 - vanne-134265023 - detect_fuite-4
+12/02/2025-21:19:29 - reserve-123 - niveau[ID:1]-0 - fuite[ID:2]-0 - pression[ID:3]-0 - pompe-0 - alerte-0 - reg_pression-1381682940 - vanne-134279489 - detect_fuite-1
+12/02/2025-21:20:17 - reserve-123 - niveau[ID:1]-70 - fuite[ID:2]-1 - pression[ID:3]-500 - pompe-0 - alerte-0 - reg_pression-1381682940 - vanne-134279489 - detect_fuite-1
+14/02/2025-00:26:34 - reserve-753 - niveau[ID:7]-0 - fuite[ID:5]-0 - pression[ID:3]-0 - pompe-0 - alerte-0 - reg_pression-1204829473 - vanne-302002258 - detect_fuite-1970235969

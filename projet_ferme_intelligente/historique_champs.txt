@@ -1,0 +1,1 @@
+13/02/2025-23:59:28 - champ-456 - temp[ID:4]-0 - hum[ID:5]-0 - ph[ID:6]-0 - irrigation-0
